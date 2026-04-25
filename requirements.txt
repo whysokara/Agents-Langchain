@@ -1,0 +1,5 @@
+langchain
+langchain-ollama
+langsmith
+dotenv
+langchain-groq
