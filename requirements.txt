@@ -7,3 +7,5 @@ langchain_community
 pymupdf
 tiktoken
 bs4
+chromadb
+faiss-cpu
